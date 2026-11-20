@@ -1,16 +1,20 @@
-## Hi there 👋
+### Herman Moroz
 
-<!--
-**germanmo-dev/germanmo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student building toward IT Support, SOC and DevOps roles.
 
-Here are some ideas to get you started:
+**Currently learning:** Git → Python → Computer Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools
+
+![Tools](https://skillicons.dev/icons?i=linux,bash,git,ubuntu,windows,vscode,html,css,js)
+
+Also: Kali Linux, VirtualBox, OSINT basics.
+Frontend: HTML, CSS and JavaScript fundamentals.
+
+#### Certifications
+
+- Terminal Fundamentals — Coddy (Nov 2026)
+
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/herman-moroz)
